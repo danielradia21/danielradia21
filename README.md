@@ -5,4 +5,4 @@ I'm Daniel a fullstack web developer,I am young, skilled with strong social skil
 also you can concect me at Danielradia21@gmail.com or in my [Linkdin](https://www.linkedin.com/in/itsdanielradia/)
 
 ### Languages and Tools:
-![vuejs](../images for github/directory_1/directory_2/.../directory_n/plot.png)
+![html5](../images for github/html5.svg)
