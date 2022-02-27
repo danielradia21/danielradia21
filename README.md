@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">a fullstack web developer,I am young, skilled with strong social skills. I can take your project to the next level. I thrive on bringing ideas to life and have a reputation for delivering eye-catching results ahead of schedule.</h3>
+<h3 align="center">A Fullstack / Front-End web developer, I am young, skilled with strong social skills. I can take your project to the next level. I thrive on bringing ideas to life and have a reputation for delivering eye-catching results ahead of schedule.</h3>
 
 - 🌱 I’m currently learning **React Native, C#, Unity**
 
