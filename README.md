@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">UX UI Designer with knowledge and experience design web applications using the modern Design Tools : Figma, Adobe XD, Canva.
+<br/>
 Also a Front End Web Developer with knowledge and experience writing single-page applications using the latest WEB technologies such as React.js, and as well as: CSS, SASS and HTML.</h3>
 
 - 🌱 I’m currently learning **Figma, Photoshop, Illustrator**
